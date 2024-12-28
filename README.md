@@ -1,4 +1,4 @@
-# TON Connect demo dApp with backend
+UQCv4A87SOvvrgjm8RoMBaD3cpq5aPBLA45RkkZiM0QQp3rl# TON Connect demo dApp with backend
 
 It is the example of an app that connects to TON wallet via TonConnect using [@tonconnect/sdk](https://www.npmjs.com/package/@tonconnect/sdk).
 
